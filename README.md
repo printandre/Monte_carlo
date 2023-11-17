@@ -1,1 +1,1 @@
-# Monte_carlo
+I crafted this simulation by leveraging insights from these lessons: (https://www.youtube.com/playlist?list=PLz33NgbtebwE0H8PnLmjJN4vATC1nSq7T). If you're keen on delving into finance, Paolo Rovelli's channel (https://www.youtube.com/@PaoloColetti) offers invaluable content that I highly recommend exploring.
